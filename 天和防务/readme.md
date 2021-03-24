@@ -2,7 +2,7 @@
  * @Author: zyxm5
  * @Date: 2021-03-24 21:50:58
  * @LastEditors: zyxm5
- * @LastEditTime: 2021-03-24 21:57:28
+ * @LastEditTime: 2021-03-24 22:00:25
  * @Description: 
 -->
 # 技术面
@@ -26,3 +26,8 @@
 - 三次握手和四次挥手
 - 浏览器输入地址敲击回车
 - get和post区别
+- 深克隆和浅克隆
+- 原型和原型链
+- position定位
+- inline-block和block
+- 水平垂直居中
