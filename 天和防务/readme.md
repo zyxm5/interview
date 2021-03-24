@@ -2,7 +2,7 @@
  * @Author: zyxm5
  * @Date: 2021-03-24 21:50:58
  * @LastEditors: zyxm5
- * @LastEditTime: 2021-03-24 22:00:25
+ * @LastEditTime: 2021-03-25 06:29:14
  * @Description: 
 -->
 # 技术面
@@ -31,3 +31,4 @@
 - position定位
 - inline-block和block
 - 水平垂直居中
+- 用户socket吗？websocket和socket的区别
