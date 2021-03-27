@@ -2,7 +2,7 @@
  * @Author: zyxm5
  * @Date: 2021-03-23 06:34:03
  * @LastEditors: zyxm5
- * @LastEditTime: 2021-03-27 10:02:53
+ * @LastEditTime: 2021-03-27 12:43:54
  * @Description: 
 -->
 # 技术面
@@ -23,6 +23,7 @@
 - 手写深拷贝
 - vite和webpack的区别
 - webpack性能优化
+- webpack5的新特性
 - vue3的新特性
 - vue的生命周期
 - 使用最简单的方法去除数组中的重复项
