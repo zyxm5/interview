@@ -2,7 +2,7 @@
  * @Author: zyxm5
  * @Date: 2021-03-23 06:34:03
  * @LastEditors: zyxm5
- * @LastEditTime: 2021-04-07 22:29:17
+ * @LastEditTime: 2021-04-08 07:18:52
  * @Description: 
 -->
 # 技术面
@@ -22,6 +22,7 @@
 - webpack中的loader和plugin的原理
 - webpack中loader的执行顺序
 - webpack中plugin的执行顺序
+- babel中的presets和plugin的区别
 - amd和cmd的区别
 - process.cmd()是干啥的
 - path.resolve()和path.join()的区别

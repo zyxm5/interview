@@ -2,22 +2,27 @@
  * @Author: zyxm5
  * @Date: 2021-03-23 06:29:41
  * @LastEditors: zyxm5
- * @LastEditTime: 2021-04-07 21:54:10
+ * @LastEditTime: 2021-04-12 21:28:39
  * @Description: 
  */
 /**
  * @description: 防抖-触发多长时间后执行1次
  * @param { Function } func
  * @param { Number } wait
+ * @param { Boolean } immediate 是否立即执行
  * @return { Function }
  */
-function debounce(func, wait){
+function debounce(func, wait, immediate = false){
     let timeout;
     return function (){
         timeout && clearTimeout(timeout);
-        timeout = setTimeout(() => {
-            func.apply(this, arguments)
-        }, wait);
+        if(immediate){
+            func.apply(this, arguments);
+        }else{
+            timeout = setTimeout(() => {
+                func.apply(this, arguments)
+            }, wait);
+        }
     }
 }
 /**
