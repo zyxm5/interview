@@ -2,10 +2,12 @@
  * @Author: zyxm5
  * @Date: 2021-03-23 06:34:03
  * @LastEditors: zyxm5
- * @LastEditTime: 2021-04-08 07:18:52
+ * @LastEditTime: 2021-04-15 06:57:08
  * @Description: 
 -->
 # 技术面
+
+##　一面
 
 - let,const和var的区别
 - async和await
@@ -31,3 +33,19 @@
 - react中hooks和类组件的区别
 - 用过哪些CI、CD工具吗
 - git的分支策略
+
+## 二面
+
+- [编程题](./test.js)
+- session和cookie的区别
+- cookie的安全性隐患
+- [浏览器常见的存储](./浏览器存储.png)
+- 前端优化
+- webpack优化
+- vue的组件间传值
+- react类组件的生命周期
+- react的hooks
+- react父子组件的更新
+- 如何封装一个组件
+- 怎么处理海量数据
+- 项目中遇到的难点
