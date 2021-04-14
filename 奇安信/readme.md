@@ -2,12 +2,12 @@
  * @Author: zyxm5
  * @Date: 2021-03-23 06:34:03
  * @LastEditors: zyxm5
- * @LastEditTime: 2021-04-15 06:57:08
+ * @LastEditTime: 2021-04-15 07:01:37
  * @Description: 
 -->
 # 技术面
 
-##　一面
+##　一面（2021-4-7）
 
 - let,const和var的区别
 - async和await
@@ -34,7 +34,7 @@
 - 用过哪些CI、CD工具吗
 - git的分支策略
 
-## 二面
+## 二面（2021-4-14）
 
 - [编程题](./test.js)
 - session和cookie的区别
