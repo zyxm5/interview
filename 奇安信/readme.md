@@ -2,7 +2,7 @@
  * @Author: zyxm5
  * @Date: 2021-03-23 06:34:03
  * @LastEditors: zyxm5
- * @LastEditTime: 2021-04-15 07:01:37
+ * @LastEditTime: 2021-04-15 09:31:42
  * @Description: 
 -->
 # 技术面
@@ -40,6 +40,8 @@
 - session和cookie的区别
 - cookie的安全性隐患
 - [浏览器常见的存储](./浏览器存储.png)
+- http缓存
+- http2.0做了哪些优化
 - 前端优化
 - webpack优化
 - vue的组件间传值
